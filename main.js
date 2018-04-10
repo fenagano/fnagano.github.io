@@ -42,7 +42,7 @@ Plot.post = function post(o) {
 };
 
 var artistToUrl = {
-    'peça 1': 'https://img.lojasrenner.com.br/item/545242966/medium/1.jpg',
+    'peça1': 'https://img.lojasrenner.com.br/item/545242966/medium/1.jpg',
     'the-beatles': 'https://img.lojasrenner.com.br/item/545578304/medium/1.jpg',
     'david-bowie': 'https://img.lojasrenner.com.br/item/545714214/medium/1.jpg',
     'randy-newman': 'https://img.lojasrenner.com.br/item/545361252/medium/1.jpg',
