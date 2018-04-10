@@ -16,7 +16,7 @@
       Plot.post({
         task: 'ping'
       });
-    }, 100);
+    }, 500);
 
     function messageListener(e) {
       var message = e.data;
