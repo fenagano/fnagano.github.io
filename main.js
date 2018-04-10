@@ -43,7 +43,7 @@
   };
 
   var artistToUrl = {
-    'Teste': 'https://img.lojasrenner.com.br/item/544711847/medium/1.jpg',
+    'Teste': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvuWvQaTgoMa90ShPRW6Zvnnau3BWlgRANS0piyecQg7aNdAuK9w',
     'Peça 2': 'https://img.lojasrenner.com.br/item/545242966/medium/1.jpg',
     'Peça 3': 'https://img.lojasrenner.com.br/item/545578304/medium/1.jpg',
     'Peça 4': 'https://img.lojasrenner.com.br/item/545714214/medium/1.jpg',
