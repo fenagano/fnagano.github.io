@@ -42,12 +42,12 @@ Plot.post = function post(o) {
 };
 
 var artistToUrl = {
-    'Peça-1': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvuWvQaTgoMa90ShPRW6Zvnnau3BWlgRANS0piyecQg7aNdAuK9w',
-    'Peça-2': 'https://img.lojasrenner.com.br/item/545242966/medium/1.jpg',
-    'Peça-3': 'https://img.lojasrenner.com.br/item/545578304/medium/1.jpg',
-    'Peça-4': 'https://img.lojasrenner.com.br/item/545714214/medium/1.jpg',
-    'Peça-5': 'https://img.lojasrenner.com.br/item/545361252/medium/1.jpg',
-    'Peça-6': 'https://img.lojasrenner.com.br/item/544053709/medium/1.jpg'
+    'peça-1': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvuWvQaTgoMa90ShPRW6Zvnnau3BWlgRANS0piyecQg7aNdAuK9w',
+    'peça-2': 'https://img.lojasrenner.com.br/item/545242966/medium/1.jpg',
+    'peça-3': 'https://img.lojasrenner.com.br/item/545578304/medium/1.jpg',
+    'peça-4': 'https://img.lojasrenner.com.br/item/545714214/medium/1.jpg',
+    'peça-5': 'https://img.lojasrenner.com.br/item/545361252/medium/1.jpg',
+    'peça-6': 'https://img.lojasrenner.com.br/item/544053709/medium/1.jpg'
 };
 
 var blankImg = 'data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=';
