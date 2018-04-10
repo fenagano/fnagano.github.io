@@ -42,7 +42,7 @@ Plot.post = function post(o) {
 };
 
 var artistToUrl = {
-    'peça-1': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvuWvQaTgoMa90ShPRW6Zvnnau3BWlgRANS0piyecQg7aNdAuK9w',
+    'teste': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvuWvQaTgoMa90ShPRW6Zvnnau3BWlgRANS0piyecQg7aNdAuK9w',
     'peça-2': 'https://img.lojasrenner.com.br/item/545242966/medium/1.jpg',
     'peça-3': 'https://img.lojasrenner.com.br/item/545578304/medium/1.jpg',
     'peça-4': 'https://img.lojasrenner.com.br/item/545714214/medium/1.jpg',
