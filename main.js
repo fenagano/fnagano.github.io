@@ -57,7 +57,7 @@ var artistToUrl = {
     'blusa13':'https://img.lojasrenner.com.br/item/544667671/zoom/1.jpg',
     'blusa14':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-leve-floral-12088838_foto1_frontal.jpg',
     'blusa15':'https://img.lojasrenner.com.br/item/544934590/zoom/1.jpg',
-    'blusa16':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-manga-babados-12283924_foto1_frontal.jpg,',
+    'blusa16':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-manga-babados-12283924_foto1_frontal.jpg',
     'blusa17':'https://cea.vteximg.com.br/arquivos/ids/2215744-468-560/Blusa-Ampla-com-Recorte-Azul-Marinho-8954019-Azul_Marinho_1.jpg?v=636512718904430000',
     'blusa18':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-recorte-flores-11978414_foto1_frontal.jpg',
     'blusa19':'https://img.lojasrenner.com.br/item/544210217/medium/1.jpg',
