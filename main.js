@@ -31,9 +31,9 @@ Plot.init = function init() {
         else if(message.type === 'hover') {
             Plot.onHover(message);
         }
-        /*else if(message.type === 'click') {
+        else if(message.type === 'click') {
             Plot.onClick(message);
-        }*/
+        }
     }
 
     window.removeEventListener('message', messageListener);
@@ -71,6 +71,17 @@ var artistToUrl = {
 var blankImg = 'data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=';
 
 Plot.onHover = function(message) {
+    var artist = message.points[0].x
+        .toLowerCase()
+        .replace(/ /g, '-');
+
+    var imgSrc = blankImg;
+
+    if(artistToUrl[artist] !== undefined) imgSrc = artistToUrl[artist];
+
+    Plot.hoverImg.src = imgSrc;
+};
+Plot.onClick = function(message) {
     var artist = message.points[0].x
         .toLowerCase()
         .replace(/ /g, '-');
