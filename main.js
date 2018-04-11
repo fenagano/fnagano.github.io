@@ -18,6 +18,7 @@ Plot.init = function init() {
 
     function messageListener(e) {
         var message = e.data;
+        console.log(message.type);
         
         if(message.pong) {
             console.log('Initial pong, frame is ready to receive');
