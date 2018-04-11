@@ -18,6 +18,7 @@ Plot.init = function init() {
 
     function messageListener(e) {
         var message = e.data;
+        alert(message.type);
 
         if(message.pong) {
             console.log('Initial pong, frame is ready to receive');
@@ -31,8 +32,8 @@ Plot.init = function init() {
         else if(message.type === 'hover') {
             Plot.onHover(message);
         }
-        else if(message.type === 'touch') {
-            Plot.onTouch(message);
+        else if(message.type === 'click') {
+            Plot.onClick(message);
         }
     }
 
