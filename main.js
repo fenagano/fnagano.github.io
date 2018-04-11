@@ -42,7 +42,7 @@ Plot.post = function post(o) {
 };
 
 var artistToUrl = {
-    'blusa1':'//img.lojasrenner.com.br/item/544343829/zoom/1.jpg',
+    'blusa1':'https://img.lojasrenner.com.br/item/544343829/zoom/1.jpg',
     'blusa2':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-rendada-11839031_foto1_frontal.jpg',
     'blusa3':'https://img.lojasrenner.com.br/item/544825318/zoom/1.jpg',
     'blusa4':'https://img.lojasrenner.com.br/item/545665011/zoom/1.jpg',
