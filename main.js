@@ -32,8 +32,8 @@ Plot.init = function init() {
         else if(message.type === 'hover') {
             Plot.onHover(message);
         }
-        else if(message.type === 'touch') {
-            Plot.onTouch(message);
+        else if(message.type === 'click') {
+            Plot.onClick(message);
         }
     }
 
@@ -82,7 +82,7 @@ Plot.onHover = function(message) {
 
     Plot.hoverImg.src = imgSrc;
 };
-Plot.onTouch = function(message) {
+Plot.onClick = function(message) {
     var artist = message.points[0].x
         .toLowerCase()
         .replace(/ /g, '-');
@@ -91,7 +91,7 @@ Plot.onTouch = function(message) {
 
     if(artistToUrl[artist] !== undefined) imgSrc = artistToUrl[artist];
 
-    Plot.hoverImg.src = imgSrc;
+    Plot.clickImg.src = imgSrc;
 };
 
 Plot.init();
