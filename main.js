@@ -31,6 +31,9 @@ Plot.init = function init() {
         else if(message.type === 'hover') {
             Plot.onHover(message);
         }
+        else if(message.type === 'click') {
+            Plot.onClick(message);
+        }
     }
 
     window.removeEventListener('message', messageListener);
