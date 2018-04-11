@@ -31,8 +31,8 @@ Plot.init = function init() {
         else if(message.type === 'hover') {
             Plot.onHover(message);
         }
-        else if(message.type === 'click') {
-            Plot.onClick(message);
+        else if(message.type === 'touch') {
+            Plot.onTouch(message);
         }
     }
 
@@ -81,7 +81,7 @@ Plot.onHover = function(message) {
 
     Plot.hoverImg.src = imgSrc;
 };
-Plot.onClick = function(message) {
+Plot.onTouch = function(message) {
     var artist = message.points[0].x
         .toLowerCase()
         .replace(/ /g, '-');
