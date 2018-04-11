@@ -71,6 +71,7 @@ var artistToUrl = {
 var blankImg = 'data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=';
 
 Plot.onHover = function(message) {
+    alert('teste')
     var artist = message.points[0].x
         .toLowerCase()
         .replace(/ /g, '-');
