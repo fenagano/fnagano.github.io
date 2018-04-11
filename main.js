@@ -42,12 +42,12 @@ Plot.post = function post(o) {
 };
 
 var artistToUrl = {
-    'blusa1':'https://cea.vteximg.com.br/arquivos/ids/2085735-468-560/3.jpg?v=636491502659500000',
+    'blusa1':'//img.lojasrenner.com.br/item/544343829/zoom/1.jpg',
     'blusa2':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-rendada-11839031_foto1_frontal.jpg',
     'blusa3':'https://img.lojasrenner.com.br/item/544825318/zoom/1.jpg',
     'blusa4':'https://img.lojasrenner.com.br/item/545665011/zoom/1.jpg',
     'blusa5':'https://cea.vteximg.com.br/arquivos/ids/2588540-468-560/Camisa-Jeans-Feminina-Manga-Longa-Azul-Escuro-9072661-Azul_Escuro_1.jpg?v=636566277413470000',
-    'blusa6':'https://img.lojasrenner.com.br/item/544432039/zoom/2.jpg',
+    'blusa6':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-jeans-manga-7-8-amarracao-12105910_foto1_frontal.jpg',
     'blusa7':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-jeans-manga-7-8-amarracao-12105910_foto1_frontal.jpg',
     'blusa8':'https://cea.vteximg.com.br/arquivos/ids/2309394-468-560/Blusa-Open-Shoulder-com-Guipir-Azul-Marinho-8737561-Azul_Marinho_1.jpg?v=636528511887370000',
     'blusa9':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/a/1/a1_11863935_foto1_frontal.jpg',
