@@ -15,7 +15,7 @@ Plot.init = function init() {
     var pinger = setInterval(function() {
         Plot.post({task: 'ping'});
     }, 500);
-
+    
     function messageListener(e) {
         var message = e.data;
         console.log(message.type);
@@ -32,9 +32,9 @@ Plot.init = function init() {
         else if(message.type === 'hover') {
             Plot.onHover(message);
         }
-        /*else if(message.type === 'click') {
+        else if(message.type === 'click') {
             Plot.onClick(message);
-        }*/
+        }
     }
 
     window.removeEventListener('message', messageListener);
@@ -82,6 +82,9 @@ Plot.onHover = function(message) {
 
     Plot.hoverImg.src = imgSrc;
 };
+ctx.onclick = function(evt){
+    var activePoints = myLineChart.getPointsAtEvent(evt);
+}
 /*Plot.onClick = function(message) {
     var artist = message.points[0].x
         .toLowerCase()
