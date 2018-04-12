@@ -32,18 +32,7 @@ Plot.init = function init() {
             Plot.onHover(message);
         }
     }
-    */AQUI*/
-    function touchStart(event){
-        originalCoord.x = event.targetTouches[0].pageX
-        originalCoord.y = event.targetTouches[0].pageY
-        finalCoord.x = originalCoord.x
-        finalCoord.y = originalCoord.y
-    }
 
-    this.addEventListener("touchstart", touchStart, false);
-    this.addEventListener("touchmove", touchMove, false);
-    this.addEventListener("touchend", touchEnd, false);
-    */Aqui*/
     window.removeEventListener('message', messageListener);
     window.addEventListener('message', messageListener);
 };
