@@ -1,5 +1,5 @@
 (function main() {
-     
+
 var Plot = {
     id: 'plot',
     imgId: 'hover-image',
@@ -15,11 +15,10 @@ Plot.init = function init() {
     var pinger = setInterval(function() {
         Plot.post({task: 'ping'});
     }, 500);
-    
+
     function messageListener(e) {
         var message = e.data;
-        console.log(message.type);
-        
+
         if(message.pong) {
             console.log('Initial pong, frame is ready to receive');
             clearInterval(pinger);
@@ -32,9 +31,6 @@ Plot.init = function init() {
         else if(message.type === 'hover') {
             Plot.onHover(message);
         }
-        /*else if(message.type === 'click') {
-            Plot.onClicl(message);
-        }*/
     }
 
     window.removeEventListener('message', messageListener);
@@ -82,21 +78,6 @@ Plot.onHover = function(message) {
 
     Plot.hoverImg.src = imgSrc;
 };
-ctx.onclick = function(evt){
-    var activePoints = myLineChart.getPointsAtEvent(evt);
-    alert('teste')
-}
-/*Plot.onClick = function(message) {
-    var artist = message.points[0].x
-        .toLowerCase()
-        .replace(/ /g, '-');
-
-    var imgSrc = blankImg;
-
-    if(artistToUrl[artist] !== undefined) imgSrc = artistToUrl[artist];
-
-    Plot.hoverImg.src = imgSrc;
-};*/
 
 Plot.init();
 
