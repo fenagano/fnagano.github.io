@@ -28,7 +28,7 @@ Plot.init = function init() {
                 'events': ['hover']
             });
         }
-        else if(message.type === 'hover') {
+        else if(message.type === 'hover overlay') {
             Plot.onHover(message);
         }
     }
