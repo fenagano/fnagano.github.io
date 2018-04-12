@@ -91,7 +91,7 @@ Plot.onClick = function(message) {
 
     if(artistToUrl[artist] !== undefined) imgSrc = artistToUrl[artist];
 
-    Plot.clickImg.src = imgSrc;
+    Plot.hoverImg.src = imgSrc;
 };
 
 Plot.init();
