@@ -42,7 +42,7 @@ Plot.post = function post(o) {
 };
 
  var artistToUrl = {
-     'blusa1':'https://img.lojasrenner.com.br/item/544492007/zoom/1.jpg',
+     'blusa-com-babado':'https://img.lojasrenner.com.br/item/544492007/zoom/1.jpg',
      'blusa2':'https://cea.vteximg.com.br/arquivos/ids/2309390-468-560/Blusa-Open-Shoulder-com-Guipir-Vinho-8737561-Vinho_1.jpg?v=636528511713500000',
      'blusa3':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-babados-12130176_foto1_frontal.jpg',
      'blusa4':'https://cea.vteximg.com.br/arquivos/ids/2627553-468-560/Blusa-Feminina-Ciganinha-Manga-Curta-com-Amarracao-Vinho-8921333-Vinho_1.jpg?v=636570694173600000',
