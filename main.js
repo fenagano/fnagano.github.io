@@ -46,13 +46,13 @@ Plot.post = function post(o) {
      'blusa-open-shoulder-com-guipir-vinho':'https://fnagano.github.io/Blusa2.jpg',
      'blusa-babados':'https://fnagano.github.io/Blusa3.jpg',
      'blusa-feminina-ciganinha-manga-curta-com-amarração-vinho':'https://fnagano.github.io/Blusa4.jpg',
-     'blusa5':'https://fnagano.github.io/Blusa5.jpg',
-     'blusa7':'https://fnagano.github.io/Blusa7.jpg',
-     'blusa8':'https://fnagano.github.io/Blusa8.jpg',
-     'blusa9':'https://fnagano.github.io/Blusa9.jpg',
-     'blusa10':'https://fnagano.github.io/Blusa10.jpg',
-     'blusa11':'https://fnagano.github.io/Blusa11.jpg',
-     'blusa12':'https://fnagano.github.io/Blusa12.jpg'
+     'blusa-decote-cut-out-ferragem':'https://fnagano.github.io/Blusa5.jpg',
+     'blusa-feminina-com-nó-canelada-manga-longa-decote-redondo-vinho':'https://fnagano.github.io/Blusa7.jpg',
+     'blusa-manga-sino':'https://fnagano.github.io/Blusa8.jpg',
+     'blusa-lisa-ilhós':'https://fnagano.github.io/Blusa9.jpg',
+     'blusa-feminina-"no-more-fake-friends"-botonê-assimétrica-manga-curta-decote-redondo-vinho':'https://fnagano.github.io/Blusa10.jpg',
+     'blusa-ombro-a-ombro-em-suede':'https://fnagano.github.io/Blusa11.jpg',
+     'blusa-ciganinha-com-amarração':'https://fnagano.github.io/Blusa12.jpg'
  };    
 
 
