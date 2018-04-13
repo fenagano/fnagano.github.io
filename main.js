@@ -45,14 +45,14 @@ Plot.post = function post(o) {
      'blusa-com-babados':'https://fnagano.github.io/Blusa1.jpg',
      'blusa-open-shoulder-com-guipir-vinho':'https://fnagano.github.io/Blusa2.jpg',
      'blusa-babados':'https://fnagano.github.io/Blusa3.jpg',
-     'blusa4':'https://cea.vteximg.com.br/arquivos/ids/2627553-468-560/Blusa-Feminina-Ciganinha-Manga-Curta-com-Amarracao-Vinho-8921333-Vinho_1.jpg?v=636570694173600000',
-     'blusa5':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-decote-cut-out-ferragem-12256927_foto1_frontal.jpg',
-     'blusa7':'https://cea.vteximg.com.br/arquivos/ids/2770830-468-560/Blusa-Feminina-com-No-Canelada-Manga-Longa-Decote-Redondo-Vinho-9094642-Vinho_1.jpg?v=636585403900700000',
-     'blusa8':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-manga-sino-12124974_foto1_frontal.jpg',
-     'blusa9':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-lisa-ilhos-12314641_foto1_frontal.jpg',
-     'blusa10':'https://cea.vteximg.com.br/arquivos/ids/2771063-468-560/Blusa-Feminina--No-More-Fake-Friends--Botone-Assimetrica-Manga-Curta-Decote-Redondo-Vinho-9035459-Vinho_1.jpg?v=636585413773100000',
-     'blusa11':'https://img.lojasrenner.com.br/item/544706546/zoom/1.jpg',
-     'blusa12':'https://img.lojasrenner.com.br/item/544450317/zoom/1.jpg',
+     'blusa-feminina-ciganinha-manga-curta-com-amarração-vinho':'https://fnagano.github.io/Blusa4.jpg',
+     'blusa5':'https://fnagano.github.io/Blusa5.jpg',
+     'blusa7':'https://fnagano.github.io/Blusa7.jpg',
+     'blusa8':'https://fnagano.github.io/Blusa8.jpg',
+     'blusa9':'https://fnagano.github.io/Blusa9.jpg',
+     'blusa10':'https://fnagano.github.io/Blusa10.jpg',
+     'blusa11':'https://fnagano.github.io/Blusa11.jpg',
+     'blusa12':'https://fnagano.github.io/Blusa12.jpg'
  };    
 
 
