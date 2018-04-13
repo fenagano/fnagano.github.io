@@ -42,17 +42,17 @@ Plot.post = function post(o) {
 };
 
 var artistToUrl = {
-    'Blusa com Babados':'https://img.lojasrenner.com.br/item/544492007/zoom/1.jpg',
-    'Blusa open shoulder com guipir vinho':'https://cea.vteximg.com.br/arquivos/ids/2309390-468-560/Blusa-Open-Shoulder-com-Guipir-Vinho-8737561-Vinho_1.jpg?v=636528511713500000',
-    'Blusa Babados':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-babados-12130176_foto1_frontal.jpg',
-    'Blusa feminina ciganinha manga curta com amarração vinho':'https://cea.vteximg.com.br/arquivos/ids/2627553-468-560/Blusa-Feminina-Ciganinha-Manga-Curta-com-Amarracao-Vinho-8921333-Vinho_1.jpg?v=636570694173600000',
-    'Blusa Decote Cut Out Ferragem':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-decote-cut-out-ferragem-12256927_foto1_frontal.jpg',
-    'Blusa feminina com nó canelada manga longa decote redondo vinho':'https://cea.vteximg.com.br/arquivos/ids/2770830-468-560/Blusa-Feminina-com-No-Canelada-Manga-Longa-Decote-Redondo-Vinho-9094642-Vinho_1.jpg?v=636585403900700000',
-    'Blusa Manga Sino':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-manga-sino-12124974_foto1_frontal.jpg',
-    'Blusa Lisa Ilhós':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-lisa-ilhos-12314641_foto1_frontal.jpg',
-    'Blusa feminina "no more fake friends" botonê assimétrica manga curta decote redondo vinho':'https://cea.vteximg.com.br/arquivos/ids/2771063-468-560/Blusa-Feminina--No-More-Fake-Friends--Botone-Assimetrica-Manga-Curta-Decote-Redondo-Vinho-9035459-Vinho_1.jpg?v=636585413773100000',
-    'Blusa ombro a ombro em Suede':'https://img.lojasrenner.com.br/item/544706546/zoom/1.jpg',
-    'Blusa Ciganinha com amarração':'https://img.lojasrenner.com.br/item/544450317/zoom/1.jpg',
+    'Blusa-com-Babados':'https://img.lojasrenner.com.br/item/544492007/zoom/1.jpg',
+    'Blusa-open-shoulder-com-guipir-vinho':'https://cea.vteximg.com.br/arquivos/ids/2309390-468-560/Blusa-Open-Shoulder-com-Guipir-Vinho-8737561-Vinho_1.jpg?v=636528511713500000',
+    'Blusa-Babados':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-babados-12130176_foto1_frontal.jpg',
+    'Blusa-feminina-ciganinha-manga-curta-com-amarração-vinho':'https://cea.vteximg.com.br/arquivos/ids/2627553-468-560/Blusa-Feminina-Ciganinha-Manga-Curta-com-Amarracao-Vinho-8921333-Vinho_1.jpg?v=636570694173600000',
+    'Blusa-Decote-Cut-Out-Ferragem':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-decote-cut-out-ferragem-12256927_foto1_frontal.jpg',
+    'Blusa-feminina-com-nó-canelada-manga-longa-decote-redondo-vinho':'https://cea.vteximg.com.br/arquivos/ids/2770830-468-560/Blusa-Feminina-com-No-Canelada-Manga-Longa-Decote-Redondo-Vinho-9094642-Vinho_1.jpg?v=636585403900700000',
+    'Blusa-Manga-Sino':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-manga-sino-12124974_foto1_frontal.jpg',
+    'Blusa-Lisa-Ilhós':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-lisa-ilhos-12314641_foto1_frontal.jpg',
+    'Blusa-feminina-"no-more-fake-friends"-botonê-assimétrica-manga-curta-decote-redondo-vinho':'https://cea.vteximg.com.br/arquivos/ids/2771063-468-560/Blusa-Feminina--No-More-Fake-Friends--Botone-Assimetrica-Manga-Curta-Decote-Redondo-Vinho-9035459-Vinho_1.jpg?v=636585413773100000',
+    'Blusa-ombro-a-ombro-em-Suede':'https://img.lojasrenner.com.br/item/544706546/zoom/1.jpg',
+    'Blusa-Ciganinha-com-amarração':'https://img.lojasrenner.com.br/item/544450317/zoom/1.jpg',
 };    
 
 
