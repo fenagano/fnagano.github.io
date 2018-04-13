@@ -47,7 +47,6 @@ Plot.post = function post(o) {
      'blusa3':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-babados-12130176_foto1_frontal.jpg',
      'blusa4':'https://cea.vteximg.com.br/arquivos/ids/2627553-468-560/Blusa-Feminina-Ciganinha-Manga-Curta-com-Amarracao-Vinho-8921333-Vinho_1.jpg?v=636570694173600000',
      'blusa5':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-decote-cut-out-ferragem-12256927_foto1_frontal.jpg',
-     'blusa6':'https://img.lojasrenner.com.br/item/544313814/zoom/1.jpg',
      'blusa7':'https://cea.vteximg.com.br/arquivos/ids/2770830-468-560/Blusa-Feminina-com-No-Canelada-Manga-Longa-Decote-Redondo-Vinho-9094642-Vinho_1.jpg?v=636585403900700000',
      'blusa8':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-manga-sino-12124974_foto1_frontal.jpg',
      'blusa9':'https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/image/1098x1370/e9c3970ab036de70892d86c6d221abfe/b/l/blusa-lisa-ilhos-12314641_foto1_frontal.jpg',
