@@ -29,7 +29,7 @@ Plot.init = function init() {
             });
         }
         else if(message.type === 'hover') {
-            Plot.focus(message);
+            Plot.onHover(message);
         }
     }
 
@@ -58,7 +58,7 @@ Plot.post = function post(o) {
 
 var blankImg = 'data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=';
 
-Plot.focus = function(message) {
+Plot.onHover = function(message) {
     var artist = message.points[0].x
         .toLowerCase()
         .replace(/ /g, '-');
